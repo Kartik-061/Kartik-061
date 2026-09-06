@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Second-year CSE student at Bennett University (9.0 SGPA), building production-grade
+  Second-year CSE student at Bennett University (9.0 CGPA), building production-grade
   projects across full-stack AI, algorithmic trading, and automation — while
   specializing in cybersecurity.
 </p>
