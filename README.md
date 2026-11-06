@@ -1,62 +1,60 @@
-<h3 align="center">Hi, I'm Kartikya 👋</h3>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack AI Developer · Cybersecurity Specialization · Building in Public</b>
-</p>
+## Hi, I'm Kartikya 👋
 
-<p align="center">
-  Second-year CSE student at Bennett University (9.0 CGPA), building production-grade
-  projects across full-stack AI, algorithmic trading, and automation — while
-  specializing in cybersecurity.
-</p>
+**Full-Stack AI Developer · Cybersecurity Specialization · Building in Public**
 
-<p align="center">
-  <a href="https://linkedin.com/in/kartikya-m-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:krishkarthikyamotwani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://fiverr.com/kartikyamotwani"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
-</p>
+Second-year CSE student at Bennett University (9.0 SGPA, merit scholarship), building data and research tools across full-stack AI, quantitative trading research, and automation, while specializing in cybersecurity.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kartik--061.github.io-F59E0B?style=flat-square)](https://kartik-061.github.io/)
+[![Forge Dashboard](https://img.shields.io/badge/Forge_Dashboard-paper_record-38BDF8?style=flat-square)](https://kartik-061.github.io/forge/)
+[![Email](https://img.shields.io/badge/Email-krishkarthikyamotwani@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishkarthikyamotwani@gmail.com)
+
+</div>
 
 ---
 
 ### 🔭 Currently building
 
-**[Trading Bot](https://github.com/Kartik-061/trading-bot)** — Statistically-validated algorithmic trading system for NSE equities. FastAPI + React, pooled significance testing (z-scores, p-values) across 43 large-cap stocks, real Indian trading-cost modeling, multi-user JWT auth. Only 1 of 4 strategies tested survived statistical validation — reported honestly rather than cherry-picked.
+**[Forge Terminal](https://kartik-061.github.io/forge/)** — a Nifty Midcap 150 momentum strategy run as a paper-trading experiment: top 30 stocks, equal weight, monthly rotation, no real money and no order-placement code. Pass/fail rules were written before any test was run. Hypothetical backtest net CAGR is 27.54% (Sept 2022 to Aug 2026), and after adjusting for the ten configurations I tried the evidence is *promising, not confirmed*. A data fix moved the headline from 27.85% to 27.54%, and I published both. Live paper record since 6 Oct 2026.
 
-**[BookIQ](https://github.com/Kartik-061/book-intelligence-platform)** — RAG-based book intelligence platform. Django REST + ChromaDB + Gemini AI, JWT auth, Dockerized, deployed on Render + PostgreSQL. RAG retrieval evaluated at MRR@3 = 1.000.
+**[Alpha Terminal](https://github.com/Kartik-061/alpha-terminal)** — a full-stack research dashboard and paper-trading system for NSE equities. React and TypeScript front end, Flask API, Postgres. Significance testing across NSE large-cap stocks with real Indian trading-cost modeling. Only 1 of 4 strategies tested passed, and I reported that openly rather than cherry-picking. Now in maintenance.
+
+**[BookIQ](https://github.com/Kartik-061/book-intelligence-platform)** — a RAG-based book intelligence platform. Django REST, ChromaDB, Gemini, JWT auth, Docker, PostgreSQL on Render. Retrieval evaluated at MRR@3 = 1.000 on 500+ books, with all 19 assigned tasks delivered.
 
 ### 🔐 Currently learning
 
-Cybersecurity — TryHackMe Pre-Security ✅, Cyber Security 101 in progress, targeting Jr Penetration Tester certification. Specializing in Cybersecurity starting Semester 3 at Bennett University.
+Cybersecurity — TryHackMe Pre-Security ✅, Cyber Security 101 in progress, working toward the Jr Penetration Tester certification (target December 2026). Specializing in Cybersecurity at Bennett University.
 
 ### 🛠️ Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 💼 Experience
 
-- **Python Developer Intern** @ Good Dopamine Technologies — B2B lead-generation, 10,000+ verified contacts across US universities
+- **Technical Co-Head, Tech Senior Core Team** @ Indian Blockchain Fraternity, Bennett University — 2026 to 2027 (volunteer)
+- **Python Developer Intern** @ Good Dopamine Technologies — built a B2B leads database of 10,000+ university contacts with about 1% bounce rate (Python, BeautifulSoup, openpyxl)
 - **Cybersecurity Intern** @ Bleep Education LLP × E-Cell IIT Bombay
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartik-061&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-061&layout=compact&theme=dark&hide_border=true"/>
-</p>
 
 ### ⚡ Fun fact
 
-I test every trading strategy for statistical significance before trusting it — 3 out of 4 I built failed the test, and that's exactly the point.
+I write the pass/fail rule before I run a test. Of the four trading strategies I tested, three failed, and publishing that is exactly the point.
 
 ---
 
-<p align="center"><i>📫 Reach me: krishkarthikyamotwani@gmail.com</i></p>
+<div align="center">
+
+📫 Reach me: krishkarthikyamotwani@gmail.com
+
+<sub>Forge Terminal is a paper-trading research project. Nothing here is investment advice.</sub>
+
+</div>
