@@ -48,7 +48,6 @@ Cybersecurity — TryHackMe Pre-Security ✅, Cyber Security 101 in progress, wo
 ### ⚡ Fun fact
 
 I write the pass/fail rule before I run a test. Of my six trading projects, four are retired after failing it, and publishing that is the point.
----
 
 <div align="center">
 
