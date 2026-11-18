@@ -22,6 +22,22 @@ Second-year CSE student at Bennett University (9.0 SGPA, merit scholarship), bui
 
 **[BookIQ](https://github.com/Kartik-061/book-intelligence-platform)** — a RAG-based book intelligence platform. Django REST, ChromaDB, Gemini, JWT auth, Docker, PostgreSQL on Render. Retrieval evaluated at MRR@3 = 1.000 on 500+ books, with all 19 assigned tasks delivered.
 
+### Research record
+
+| Project | Status | Repo |
+|---|---|---|
+| Forge Terminal | Active: paper trading since 2026-10-06 (code private) | [forge-research](https://github.com/Kartik-061/forge-research) |
+| MCX Terminal | Active: forward paper incubation since 2026-11-09 | [MCX-Terminal](https://github.com/Kartik-061/MCX-Terminal) |
+| Prism | Personal-finance tool: SIP buy-ticket calculator | [prism-sip-calculator](https://github.com/Kartik-061/prism-sip-calculator) |
+| Alpha Terminal | Retired: failed out-of-sample | [trading-bot](https://github.com/Kartik-061/trading-bot) |
+| Omni Terminal | Retired: lost to equal-weight allocation | [omni-terminal](https://github.com/Kartik-061/omni-terminal) |
+| Sector Terminal | Retired: no edge after baselines | [sector-terminal](https://github.com/Kartik-061/sector-terminal) |
+| Bullion Terminal | Retired: lost to buy-and-hold | [bullion-terminal](https://github.com/Kartik-061/bullion-terminal) |
+| QMOM Terminal | Rejected: trailed plain momentum | [qmom-terminal](https://github.com/Kartik-061/qmom-terminal) |
+| Atlas Terminal | Rejected specification (data not available) | [atlas-terminal](https://github.com/Kartik-061/atlas-terminal) |
+
+Everything is paper trading and hypothetical. Nothing here is investment advice.
+
 ### 🔐 Currently learning
 
 Cybersecurity — TryHackMe Pre-Security ✅, Cyber Security 101 in progress, working toward the Jr Penetration Tester certification (target December 2026). Specializing in Cybersecurity at Bennett University.
@@ -47,7 +63,7 @@ Cybersecurity — TryHackMe Pre-Security ✅, Cyber Security 101 in progress, wo
 
 ### ⚡ Fun fact
 
-I write the pass/fail rule before I run a test. Of my six trading projects, four are retired after failing it, and publishing that is the point.
+Of the eight trading research projects I have built, six were retired or rejected after failing their own tests and two are in paper trading. Every result, including the failures, is published.
 
 <div align="center">
 
