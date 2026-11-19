@@ -71,6 +71,6 @@ Of the eight trading research projects I have built, six were retired or rejecte
 
 📫 Reach me: krishkarthikyamotwani@gmail.com
 
-<sub>Forge Terminal is a paper-trading research project.  Nothing here is investment advice.</sub>
+<sub>Forge Terminal is a paper-trading research project.   Nothing here is investment advice.</sub>
 
 </div>
