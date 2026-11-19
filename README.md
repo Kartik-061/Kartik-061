@@ -18,9 +18,9 @@ Second-year CSE student at Bennett University (9.0 CGPA, merit scholarship), bui
 
 <a href="https://kartik-061.github.io/forge/"><b>Forge Terminal</b></a> — a Nifty Midcap 150 momentum strategy run as a paper-trading experiment (code private): top 30 stocks, equal weight, monthly rotation, no real money and no order-placement code. Pass/fail rules were written before any test was run. Hypothetical backtest net CAGR is about 27% (Sept 2022 to Aug 2026, 48 monthly returns) after several data fixes that I published as I made them. Ten configurations were tried, so the evidence is promising, not confirmed. Live paper record since 6 Oct 2026.
 
-[MCX Terminal](https://github.com/Kartik-061/MCX-Terminal) — a forward paper-trading incubation of an intraday opening-range breakout on MCX crude oil and natural gas. The backtest edge is unproven (t = 1.42 on 108 trades), so the point of the paper phase is to measure real fills, costs and uptime. Paper only; no real capital.
+**[MCX Terminal](https://github.com/Kartik-061/MCX-Terminal) — a forward paper-trading incubation of an intraday opening-range breakout on MCX crude oil and natural gas. The backtest edge is unproven (t = 1.42 on 108 trades), so the point of the paper phase is to measure real fills, costs and uptime. Paper only; no real capital.
 
-[Prism](https://github.com/Kartik-061/prism-sip-calculator) — a 45-line personal-finance calculator that prints the monthly buy ticket for an equal-weight 5-ETF SIP, built after my own test showed an equal-weight basket beat my active dual-momentum model.
+**[Prism](https://github.com/Kartik-061/prism-sip-calculator) — a 45-line personal-finance calculator that prints the monthly buy ticket for an equal-weight 5-ETF SIP, built after my own test showed an equal-weight basket beat my active dual-momentum model.
 
 **[BookIQ](https://github.com/Kartik-061/book-intelligence-platform)** — a RAG-based book intelligence platform. Django REST, ChromaDB, Gemini, JWT auth, Docker, PostgreSQL on Render. Retrieval evaluated at MRR@3 = 1.000 on 500+ books, with all 19 assigned tasks delivered.
 
@@ -71,6 +71,6 @@ Of the eight trading research projects I have built, six were retired or rejecte
 
 📫 Reach me: krishkarthikyamotwani@gmail.com
 
-<sub>Forge Terminal is a paper-trading research project. Nothing here is investment advice.</sub>
+<sub>Forge Terminal is a paper-trading research project.  Nothing here is investment advice.</sub>
 
 </div>
