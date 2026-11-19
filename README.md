@@ -2,7 +2,7 @@
 
 ## Hi, I'm Kartikya 👋
 
-**Full-Stack AI Developer · Cybersecurity Specialization · Building in Public**
+**Quantitative Trading Researcher · Full-Stack AI Developer · Cybersecurity Specialization · Building in Public**
 
 Second-year CSE student at Bennett University (9.0 CGPA, merit scholarship), building data and research tools across full-stack AI, quantitative trading research, and automation, while specializing in cybersecurity.
 
