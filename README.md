@@ -4,7 +4,7 @@
 
 **Full-Stack AI Developer · Cybersecurity Specialization · Building in Public**
 
-Second-year CSE student at Bennett University (9.0 SGPA, merit scholarship), building data and research tools across full-stack AI, quantitative trading research, and automation, while specializing in cybersecurity.
+Second-year CSE student at Bennett University (9.0 CGPA, merit scholarship), building data and research tools across full-stack AI, quantitative trading research, and automation, while specializing in cybersecurity.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kartik--061.github.io-F59E0B?style=flat-square)](https://kartik-061.github.io/)
 [![Forge Dashboard](https://img.shields.io/badge/Forge_Dashboard-paper_record-38BDF8?style=flat-square)](https://kartik-061.github.io/forge/)
